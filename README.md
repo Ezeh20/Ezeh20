@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ezeh Chijioke
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Ezeh Chijioke
 =====================================================================================================================================
 
 A Frontend developer
 --------------------
 
-I’m a self taught developer who took up frontend development a month after college , I started with the basics then joined online communities in other to be amongst people with similar interest. During my learning period I registered for an online training as advised by people which was helpful, after that program i registered for the HNG 9 internship <a href=" https://internship.zuri.team/hngi9"> which I finished as a finalist . These events took place within my service year 2021 - 2022 and by this time i have already moved to React and still learning the various tools and techniques to be a better frontend developer
+
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [buchimmaduabuchukwu@gmail.com](mailto:buchimmaduabuchukwu@gmail.com)

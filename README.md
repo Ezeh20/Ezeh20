@@ -8,7 +8,6 @@ A Frontend developer
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [buchimmaduabuchukwu@gmail.com](mailto:buchimmaduabuchukwu@gmail.com)
-* 🧠  I'm learning Next.js, TypeScript
 * 🤝  I'm open to collaborating on Frontend development projects
 
 ### Skills
